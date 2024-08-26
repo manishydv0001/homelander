@@ -13,7 +13,7 @@ const Image6 = () => {
                     <div className='text-lg md:text-3xl py-2 md:py-4'>$58,000</div>
                 </div>
                 <div>
-                    <img src="public/assets/img/houses/house6lg.png" alt="Loading" className='w-full md:w-auto'/>
+                    <img src="assets/img/houses/house6lg.png" alt="Loading" className='w-full md:w-auto'/>
                 </div>
                 <div className='text-lg md:text-2xl py-8 md:py-14 px-2 md:px-4'>
                     <div className='flex flex-col md:flex-row gap-4 md:gap-10 p-4 md:p-6'>

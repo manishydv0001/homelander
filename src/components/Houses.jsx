@@ -47,7 +47,7 @@ const Houses = () => {
         {/* First Row */}
         <div className='flex flex-col md:flex-row justify-between gap-8'>
           <div onClick={handle} className='border-[rgb(154,150,150)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img  src="public/assets/img/houses/house1.png" />
+            <img  src="assets/img/houses/house1.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>Apartment</div>
               <div>28 Westport Dr.Warminster,18</div>
@@ -55,7 +55,7 @@ const Houses = () => {
             </div>
           </div>
           <div onClick={handle2} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img  src="public/assets/img/houses/house2.png" />
+            <img  src="assets/img/houses/house2.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>House</div>
               <div>45 Tenth Avenue, NY 100114</div>
@@ -63,7 +63,7 @@ const Houses = () => {
             </div>
           </div>
           <div onClick={handle3} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img  src="public/assets/img/houses/house3.png" />
+            <img  src="assets/img/houses/house3.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>PentHouse</div>
               <div>22 N Lincoln Park Wes,614</div>
@@ -71,7 +71,7 @@ const Houses = () => {
             </div>
           </div>
           <div onClick={handle4} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img  src="public/assets/img/houses/house4.png" />
+            <img  src="assets/img/houses/house4.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>FarmHouse</div>
               <div>46 South Grand Avenue,71</div>
@@ -83,7 +83,7 @@ const Houses = () => {
         {/* Second Row */}
         <div className='flex flex-col md:flex-row justify-between gap-8 mt-8'>
           <div onClick={handle5} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img  src="public/assets/img/houses/house5.png" />
+            <img  src="assets/img/houses/house5.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>FarmHouse</div>
               <div>101 Pearl Street, MA 02111</div>
@@ -91,7 +91,7 @@ const Houses = () => {
             </div>
           </div>
           <div onClick={handle6} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img  src="public/assets/img/houses/house6.png" />
+            <img  src="assets/img/houses/house6.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>House</div>
               <div>1000 Main Street, CO 80202</div>
@@ -99,7 +99,7 @@ const Houses = () => {
             </div>
           </div>
           <div onClick={handle7} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img src="public/assets/img/houses/house7.png" />
+            <img src="assets/img/houses/house7.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>Apartment</div>
               <div>123 Main Street, USA 12345</div>
@@ -107,7 +107,7 @@ const Houses = () => {
             </div>
           </div>
           <div onClick={handle8} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img src="public/assets/img/houses/house8.png" />
+            <img src="assets/img/houses/house8.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>PentHouse</div>
               <div>101 Hudson Street, NJ 07030</div>
@@ -119,7 +119,7 @@ const Houses = () => {
         {/* Third Row */}
         <div className='flex flex-col md:flex-row justify-between gap-8 mt-8'>
           <div onClick={handle9} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img src="public/assets/img/houses/house9.png" />
+            <img src="assets/img/houses/house9.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>Apartment</div>
               <div>123 Green Street, WA 9810</div>
@@ -127,7 +127,7 @@ const Houses = () => {
             </div>
           </div>
           <div onClick={handle10} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img  src="public/assets/img/houses/house10.png" />
+            <img  src="assets/img/houses/house10.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>FarmHouse</div>
               <div>100 Riverside Drive, NY 10024</div>
@@ -135,7 +135,7 @@ const Houses = () => {
             </div>
           </div>
           <div onClick={handle11} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img src="public/assets/img/houses/house11.png" />
+            <img src="assets/img/houses/house11.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>PentHouse</div>
               <div>100 Modern Avenue, CA 94102</div>
@@ -143,7 +143,7 @@ const Houses = () => {
             </div> 
           </div>
           <div onClick={handle12} className='border-[rgb(166,161,161)] hover:shadow-2xl hover:shadow-slate-500 px-4 py-4 rounded-md'>
-            <img  src="public/assets/img/houses/house12.png" />
+            <img  src="assets/img/houses/house12.png" />
             <div className='text-2xl font-sans'>
               <div className='font-sans text-3xl'>House</div>
               <div>123 Grove Street, CA 90036</div>

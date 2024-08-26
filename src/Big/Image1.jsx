@@ -9,7 +9,7 @@ const Image1 = () => {
                     <div>28 Westport Dr. Warminster, <div /> PA 18974</div>
                 </div>
                 <div>
-                    <img src="public/assets/img/houses/house1lg.png" alt="Loading" className='w-full md:w-auto' />
+                    <img src="assets/img/houses/house1lg.png" alt="Loading" className='w-full md:w-auto' />
                 </div>
                 <div className='text-lg md:text-2xl py-6 md:py-14 px-2 md:px-4'>
                     <div className='flex flex-col md:flex-row gap-4 md:gap-10 p-2 md:p-6'>
